@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File", "HadoopTest\File.csproj", "{EC8C6D51-D76C-4D17-B87A-7F9876EF08B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageQueue", "..\Project1\代码管理\HONFramework\Honsoft.HMQFramework\MessageQueue\MessageQueue\MessageQueue.csproj", "{B3F014CD-2351-4BCF-8E11-B87361C06B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC8C6D51-D76C-4D17-B87A-7F9876EF08B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8C6D51-D76C-4D17-B87A-7F9876EF08B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8C6D51-D76C-4D17-B87A-7F9876EF08B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8C6D51-D76C-4D17-B87A-7F9876EF08B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F014CD-2351-4BCF-8E11-B87361C06B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F014CD-2351-4BCF-8E11-B87361C06B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F014CD-2351-4BCF-8E11-B87361C06B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F014CD-2351-4BCF-8E11-B87361C06B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000A13F5-D1D4-486B-AD69-F54E0CD840BA}
+	EndGlobalSection
+EndGlobal
